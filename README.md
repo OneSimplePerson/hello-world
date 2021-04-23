@@ -1,3 +1,6 @@
+# It’s my learning code. It’s not my original
+
+
 # LightGCN
 This is our Tensorflow implementation for our SIGIR 2020 paper:
 
